@@ -10,8 +10,12 @@
 
 Actividad 3.1 Implementación de "Tries" 
 
-David Alejandro González Ibarra A01633817
-A01639914
+David González A01633817
+Rogelio Guzman A01639914
+
+
+La complejidad para el algoritmo de busqueda e insertar es O(n) en donde n es la 
+longitud del string, ya que lo busca caracter por caracter
 
 */
 
